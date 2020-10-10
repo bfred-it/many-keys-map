@@ -86,3 +86,5 @@ for (const [keys, value] of data) {
 # Related
 
 - [many-keys-weakmap](https://github.com/fregante/many-keys-weakmap) - A `WeakMap` subclass with support for multiple keys for one entry.
+- [multi-map](https://github.com/villadora/multi-map) - A map that supports multiple entries for each key.
+
